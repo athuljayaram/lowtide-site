@@ -9,7 +9,7 @@ WHAT STAYS ON YOUR PHONE
 The apps you choose to block never leave your device.
 
 - iPhone: blocking is handled by Apple's Screen Time framework. Apple gives Lowtide only private tokens for the apps, categories and websites you pick, not their names.
-- Android: Lowtide uses Android's usage access to see which app is open, so it can show the block screen during a focus session. Your list of blocked apps and app usage is processed only on your device and is never sent to us.
+- Android: Lowtide uses Android's Accessibility service only to see which app is opening, so it can show the block screen during a focus session. It never reads or records what's on your screen. Your list of blocked apps is processed only on your device and is never sent to us.
 
 
 WHAT WE STORE
