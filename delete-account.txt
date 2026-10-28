@@ -1,0 +1,30 @@
+LOWTIDE: DELETE YOUR ACCOUNT AND DATA
+Developer: Securityinfinity Inc.
+
+
+DELETE IN THE APP
+
+1. Open Lowtide.
+2. Tap Settings.
+3. Tap "Delete account and data" and confirm.
+
+Your account is deleted right away.
+
+
+DELETE BY EMAIL
+
+If you can't open the app, email support@securityinfinity.com from the address on your account with the subject "Delete my Lowtide account". We delete it within 7 days and reply to confirm.
+
+
+WHAT IS DELETED
+
+- Your account ID and email address
+- Your focus session history
+- Your Lowtide Pro purchase record on our servers
+
+Nothing is kept after deletion. The list of apps you block was only ever stored on your phone; uninstall Lowtide to remove it.
+
+
+SUBSCRIPTIONS
+
+Deleting your account does not cancel a subscription. Cancel it first in Google Play under Payments & subscriptions (Android) or in your Apple ID settings (iPhone).
