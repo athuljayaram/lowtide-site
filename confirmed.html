@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Email confirmed · Lowtide</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+<h1>You're confirmed</h1>
+<p>Your email is verified. Go back to Lowtide and sign in with your email and password.</p>
+<p class="muted">Didn't expect this? Email <a href="mailto:support@securityinfinity.com">support@securityinfinity.com</a>.</p>
+</main>
+<script>
+  // Supabase puts the session in the URL fragment; drop it so it isn't left in history.
+  if (location.hash) history.replaceState(null, "", location.pathname);
+</script>
+</body>
+</html>
