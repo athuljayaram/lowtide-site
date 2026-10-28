@@ -1,0 +1,52 @@
+LOWTIDE TERMS OF USE
+Last updated: October 28, 2026
+Provider: Securityinfinity Inc. ("we", "us")
+
+By using Lowtide you agree to these terms. If you don't agree, please don't use the app.
+
+
+THE APP
+
+Lowtide helps you block apps you choose during focus sessions. It's a tool to support your own habits; it isn't a parental control, security or medical product. Blocking depends on your phone's operating system (Apple's Screen Time on iPhone, the Accessibility service on Android) and can stop working if those permissions are turned off, the app is force-stopped, or the system changes.
+
+
+ACCOUNTS
+
+You can use Lowtide without an account. If you create one, keep your password safe and give us an email address you control. You can delete your account at any time in Settings > Delete account and data.
+
+
+LOWTIDE PRO
+
+Lowtide Pro is sold as an auto-renewing monthly subscription or a one-time lifetime purchase, through the App Store or Google Play.
+- Prices are shown in the app before you buy and may vary by country.
+- New subscribers may get a free trial. If you don't cancel before it ends, the subscription starts and you are charged.
+- Subscriptions renew automatically until you cancel. Cancel at least 24 hours before the end of the current period to avoid the next charge.
+- Manage or cancel in Google Play > Payments & subscriptions (Android) or in your Apple ID settings (iPhone). Deleting the app or your account does not cancel a subscription.
+- Refunds are handled by Google or Apple under their policies.
+- "Lifetime" means for as long as we offer Lowtide.
+
+
+ACCEPTABLE USE
+
+Don't misuse the app or our servers: no reverse engineering to get around purchases, no attacks on our systems, and no use that breaks the law.
+
+
+PRIVACY
+
+How we handle your data is described in the privacy policy:
+https://raw.githubusercontent.com/athuljayaram/lowtide-site/main/privacy.txt
+
+
+DISCLAIMER
+
+Lowtide is provided "as is". To the extent the law allows, we don't promise it will be uninterrupted or error-free, and we aren't liable for indirect or consequential losses from using it. Nothing in these terms limits rights you have under consumer law that can't be excluded.
+
+
+CHANGES
+
+We may update these terms. We'll change the date above and, for significant changes, tell you in the app. Continuing to use Lowtide after a change means you accept the new terms.
+
+
+CONTACT
+
+support@securityinfinity.com
