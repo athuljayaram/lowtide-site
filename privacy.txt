@@ -1,0 +1,50 @@
+LOWTIDE PRIVACY POLICY
+Last updated: October 27, 2026
+
+Lowtide helps you block distracting apps and focus. We collect as little as we can, we never sell your data, and we don't use it for advertising or tracking.
+
+
+WHAT STAYS ON YOUR PHONE
+
+The apps you choose to block never leave your device.
+
+- iPhone: blocking is handled by Apple's Screen Time framework. Apple gives Lowtide only private tokens for the apps, categories and websites you pick, not their names.
+- Android: Lowtide uses Android's usage access to see which app is open, so it can show the block screen during a focus session. Your list of blocked apps and app usage is processed only on your device and is never sent to us.
+
+
+WHAT WE STORE
+
+- Account ID. A random ID created when you first open the app, so your history and purchases belong to you.
+- Email address, only if you create an account with email, Sign in with Apple or Sign in with Google. Apple may give us a private relay address instead.
+- Focus sessions. When each session started and ended, its planned length and how many items were blocked. This powers your weekly stats.
+- Purchase status. Whether you have Lowtide Pro and which plan. We never see your payment details; Apple or Google handles payment.
+
+
+WHO PROCESSES IT
+
+- Supabase hosts our database and sign-in.
+- RevenueCat manages subscriptions and receipts.
+- Apple processes App Store payments and Sign in with Apple.
+- Google processes Google Play payments and Sign in with Google.
+
+Each acts only on our behalf and under its own privacy policy.
+
+
+DELETING YOUR DATA
+
+In the app, open Settings and tap "Delete account and data". This permanently removes your account, focus history and purchase record from our servers. It does not cancel your subscription; cancel that first in your Apple ID settings (iPhone) or in Google Play under Payments & subscriptions (Android). You can also email us to delete your account.
+
+
+CHILDREN
+
+Lowtide is not directed at children under 13, and we don't knowingly collect their data.
+
+
+CHANGES
+
+If we change this policy we'll update the date above, and tell you in the app for any significant change.
+
+
+CONTACT
+
+Questions or requests: support@securityinfinity.com
